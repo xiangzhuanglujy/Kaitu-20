@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>png/1.png</file>
+        <file>png/back.png</file>
+        <file>png/china.png</file>
+        <file>png/connect.png</file>
+        <file>png/delete.png</file>
+        <file>png/english.png</file>
+        <file>png/excel.png</file>
+        <file>png/hand.png</file>
+        <file>png/in.png</file>
+        <file>png/mail.png</file>
+        <file>png/out.png</file>
+        <file>png/pdf.png</file>
+        <file>png/print.png</file>
+        <file>png/search.png</file>
+        <file>png/send.png</file>
+        <file>png/setting.png</file>
+        <file>png/stop.png</file>
+        <file>png/store.png</file>
+        <file>png/thank.png</file>
+        <file>png/txt.png</file>
+        <file>png/upload.png</file>
+        <file>png/word.png</file>
+        <file>png/del.png</file>
+        <file>png/big.png</file>
+        <file>png/small.png</file>
+        <file>png/rensile.png</file>
+        <file>png/narrow.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qss/style.qss</file>
+        <file>qss/load</file>
+        <file>qss/load1</file>
+        <file>TDR_chinese.qm</file>
+    </qresource>
+</RCC>
